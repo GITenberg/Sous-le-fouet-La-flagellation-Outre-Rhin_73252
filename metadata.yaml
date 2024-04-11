@@ -1,0 +1,31 @@
+_repo: Sous-le-fouet-La-flagellation-Outre-Rhin_73252
+_version: 0.0.1
+alternative_title: 'Sous le fouet! :  La flagellation Outre-Rhin'
+creator:
+  author:
+    agent_name: Charles-Étienne
+    alias: Charles-Etienne
+    gutenberg_agent_id: '56999'
+    url: http://www.gutenberg.org/2009/agents/56999
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73252'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435005620810
+pgterms:marc905: 20240316143340charlestie
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Gaëlle Vutron (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bLibrairie des lettres, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Sous le fouet : $b mœurs d''Outre-Rhin'
+url: http://www.gutenberg.org/ebooks/73252
